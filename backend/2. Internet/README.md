@@ -16,5 +16,5 @@
 - [What is a DNS server? (Cloudflare)](https://www.cloudflare.com/learning/dns/what-is-a-dns-server/)
 - [How a DNS Server (Domain Name System) works.](https://www.youtube.com/watch?v=mpQZVYPuDGU)
 
-# Hosing
+# Hosting
 - [What is Web hosting?](https://www.techtarget.com/whatis/definition/hosting-Web-site-hosting-Web-hosting-and-Webhosting)
