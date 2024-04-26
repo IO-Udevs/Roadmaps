@@ -1,5 +1,4 @@
 # Problems
-- [0](https://leetcode.com/problems/minimum-area-rectangle)
 - [1](https://leetcode.com/problems/two-sum/description)
 - [2](https://leetcode.com/problems/add-two-numbers)
 - [3](https://leetcode.com/problems/longest-substring-without-repeating-characters)
@@ -34,7 +33,7 @@
 - [32](https://leetcode.com/problems/next-greater-element-ii)
 - [33](https://leetcode.com/problems/valid-palindrome-ii)
 - [34](https://leetcode.com/problems/daily-temperatures)
-- [35](https://leetcode.com/problems/find-and-replace-in-string)
+- [35](https://leetcode.com/problems/minimum-area-rectangle)
 - [36](https://leetcode.com/problems/rotting-oranges)
 - [37](https://leetcode.com/problems/encrypt-and-decrypt-strings)
 - [38](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)
