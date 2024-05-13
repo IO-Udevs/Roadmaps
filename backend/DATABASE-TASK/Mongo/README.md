@@ -1,5 +1,5 @@
 # Initializing the database
-Read all files from "datas" folter and insert them into the database
+You can get sample data from "example_data"
 Create 1 million rows for "orders" and "order_products"
 Create appropriate relations for tables
 
