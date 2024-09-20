@@ -125,7 +125,7 @@ Here's an outline of the requirements for building the "MiniTwitter" application
 ### 21. Performance:
 - Optimize database queries with indexes and query optimization techniques.
 - Use CDN (Content Delivery Network) for serving static assets to improve load times.
-- Write Load test for frequently used GET API endpionts using k6, they should respond 50k VUS in less than 2 seconds for each.
+- Write Load test for frequently used GET API endpionts using k6, they should respond 100k rps.
 - Write load test that supports 5k TPS (Transaction per second) for CREATE or UPDATE endpoints.
 
 ### 22. Security:
